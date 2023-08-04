@@ -9,4 +9,4 @@ The first case is described in the paper by Gómez-Hernandez (2022) and the seco
 
 # References
 - J. Jaime Gómez-Hernández, [Teaching Numerical Groundwater Flow Modeling with Spreadsheets](https://doi.org/10.1007/s11004-022-10002-4), _Mathematical Geosciences, 54_, 1121-1138, [doi:10.1007/s11004-022-10002-4](http://doi.org//10.1007/s11004-022-10002-4), 2022.
-- J. Jaime Gómez-Hernández and Daniele Secci, Teaching Numerical Groundwater Flow Modeling with Spreadsheets: unconfined aquifers and vertical cross-sections, _Mathematical Geosciences, under review_, 2023. 
+- J. Jaime Gómez-Hernández and Daniele Secci, Teaching Numerical Groundwater Flow Modeling with Spreadsheets: Unconfined Aquifers and Vertical Cross-Sections, _Mathematical Geosciences, under review_, 2023. 
