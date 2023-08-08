@@ -107,7 +107,7 @@ oc = flopy.modflow.ModflowOc(
 
 # Define the Preconditioned Conjugate-Gradient (PCG) package (solver)
 # Set IWETIT to 1 to turn on wetting, and IHDWET to 1 to specify that wetting is done based on cell heads
-pcg = flopy.modflow.ModflowPcg(mf,mxiter=50000,iter1=50,relax=0.8)
+pcg = flopy.modflow.ModflowPcg(mf,mxiter=1000,iter1=50,relax=0.8,mutpcg = 1)
 
 # 8. Write the MODFLOW model input files
 mf.write_input()
