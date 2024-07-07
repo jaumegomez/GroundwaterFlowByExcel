@@ -161,7 +161,7 @@ oc = flopy.modflow.ModflowOc(
 )
 
 #Solver
-pcg = flopy.modflow.ModflowPcg(mf,mxiter=1000,relax=0.8)
+pcg = flopy.modflow.ModflowPcg(mf,mxiter=1000,relax=0.8,hclose=1e-5,rclose=1e-3)
 
 #Write input files to the model_ws directory
 mf.write_input()
