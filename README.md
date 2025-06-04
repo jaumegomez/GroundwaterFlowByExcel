@@ -4,9 +4,9 @@ The solution of the steady-state groundwater flow equation has been implemented 
 - Flow in the horizontal plane in a confined aquifer of known transmissivities
 - Flow in the horizontal plane in an unconfined aquifer of known hydraulic conductivities
 - Flow in a vertical cross-section of an unconfined aquifer with calculation of the phreatic surface
-In 2025, a new solution to handle transient flow in an unconfined aquifer has been developed
+- In 2025, a new solution to handle transient flow in an unconfined aquifer has been developed
 
-The first case is described in the paper by Gómez-Hernandez (2022) and the second and third ones in the paper by Gómez-Hernández and Secci (2023)
+The first case is described in the paper by Gómez-Hernandez (2022),  the second and third ones in the paper by Gómez-Hernández and Secci (2023) and the transient one in the paper by Gómez-Hernández and Secci (2025)
 
 The subfolders with flopy scripts contain Python scripts and input files to replicate the Excel model using MODFLOW with the flopy library on the Python environment. They can be used to verify the accuracy of the spreadsheet results
 
