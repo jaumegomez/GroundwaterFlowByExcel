@@ -11,4 +11,4 @@ The subfolders with flopy scripts contain Python scripts and input files to repl
 
 # References
 - J. Jaime Gómez-Hernández, [Teaching Numerical Groundwater Flow Modeling with Spreadsheets](https://doi.org/10.1007/s11004-022-10002-4), _Mathematical Geosciences, 54_, 1121-1138, [doi:10.1007/s11004-022-10002-4](http://doi.org//10.1007/s11004-022-10002-4), 2022.
-- J. Jaime Gómez-Hernández and Daniele Secci, [Teaching Numerical Groundwater Flow Modeling with Spreadsheets: Unconfined Aquifers and Vertical Cross-Sections](https://jgomez.webs.upv.es/wordpress/wp-content/uploads/2023/10/TeachingNumericalGWFlowWithExcel2_rev2.pdf), _Mathematical Geosciences_, [doi:10.1007/s11004-023-10112-7](https://doi.org/10.1007/s11004-023-10112-7), 2023. 
+- J. Jaime Gómez-Hernández and Daniele Secci, [Teaching Numerical Groundwater Flow Modeling with Spreadsheets: Unconfined Aquifers and Vertical Cross-Sections](https://jgomez.webs.upv.es/wordpress/wp-content/uploads/2023/10/TeachingNumericalGWFlowWithExcel2_rev2.pdf), _Mathematical Geosciences_, [doi:10.1007/s11004-023-10112-7](https://doi.org/10.1007/s11004-023-10112-7), 2024. 
